@@ -8,7 +8,11 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+<<<<<<< HEAD
     "postinstall": "ng build --prod"
+=======
+    "postinstall": "ng build --aot -prod"
+>>>>>>> parent of abb0400... Update package.json
   },
   "private": true,
   "dependencies": {
